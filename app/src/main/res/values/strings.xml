@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Introduction_SwipeImage</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">C4console.com</string>
+    <string name="slide_1_desc">C language</string>
+
+    <string name="slide_2_title">C4console.com</string>
+    <string name="slide_2_desc">C++ language</string>
+
+    <string name="slide_3_title">C4console.com</string>
+    <string name="slide_3_desc">Android tutorials and Example</string>
+
+    <string name="slide_4_title">C4console.com</string>
+    <string name="slide_4_desc">Java language</string>
+
+    <string name="play_again_desc">C4console.com Play Again</string>
+    <string name="play_again">Click and start Introduction</string>
+
+
+</resources>
